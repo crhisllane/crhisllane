@@ -5,7 +5,11 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
 ---
 
 ### 🔭 I’m currently working on 
-- <a href="https://www.gccrc.unicamp.br/"> GCCRC </a> 
+<p align="left">
+ <a href="https://www.gccrc.unicamp.br/">
+    <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/gccrc.png" alt="GCCRC"; margin:4px">
+ </a>
+</p>
 
 ---
 ### 🚧 I build with...
@@ -45,6 +49,14 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
   
   <a href="https://www.mysql.com/">
       <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/mysql.png" alt="Mysql" style="vertical-align:top; margin:4px">
+  </a> 
+  
+  <a href="https://www.djangoproject.com/">
+      <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/Django.png" alt="Django" style="vertical-align:top; margin:4px">
+  </a> 
+  
+  <a href="https://cloud.google.com/">
+      <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/google_cloud_platform.png" alt="GCP" style="vertical-align:top; margin:4px">
   </a> 
 
 
