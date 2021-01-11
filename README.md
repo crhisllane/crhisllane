@@ -3,11 +3,9 @@
 
 
 ### 🔭 I’m currently working on 
-<p align="center">
   <a href="https://www.gccrc.unicamp.br/">
-    <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/GCCRC-logo-website-37h.png" alt="GCCRC" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/GCCRC-logo-146hw-292x292.png" alt="GCCRC" style="vertical-align:top; margin:4px">
   </a>  
-</p>
 <!--
 **crhisllane/crhisllane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
