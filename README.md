@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in bioinformatics. Here you can find a small sample of my projects, however most of them are private (I will probably change this later). You can read a little about what I have worked on my results [ebpage]https://leishtargets.github.io/
+
 ---
 
 ### 🔭 I’m currently working on 
