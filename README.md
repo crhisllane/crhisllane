@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+---
 
 ### 🔭 I’m currently working on 
 - <a href="https://www.gccrc.unicamp.br/"> GCCRC </a>  
