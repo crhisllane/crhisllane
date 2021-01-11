@@ -1,13 +1,11 @@
 ### Hi there 👋
 
+I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in bioinformatics. Here you can find a small sample of my projects, however most of them are private (I will probably change this later). You can read a little about what I have worked on my results [webpage](https://leishtargets.github.io/).
 
+---
 
 ### 🔭 I’m currently working on 
-<p align="center">
-  <a href="https://www.gccrc.unicamp.br/">
-    <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/GCCRC-logo-website-37h.png" alt="GCCRC" style="vertical-align:top; margin:4px">
-  </a>  
-</p>
+- <a href="https://www.gccrc.unicamp.br/"> GCCRC </a>  
 <!--
 **crhisllane/crhisllane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
