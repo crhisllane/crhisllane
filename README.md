@@ -5,7 +5,7 @@
 ### 🔭 I’m currently working on 
 <p align="center">
   <a href="https://www.gccrc.unicamp.br/">
-    <img src="https://www.gccrc.unicamp.br/wp-content/uploads/2019/10/GCCRC-logo-website-37h.png" alt="GCCRC" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/GCCRC-logo-website-37h.png" alt="GCCRC" style="vertical-align:top; margin:4px">
   </a>  
 </p>
 <!--
