@@ -4,7 +4,7 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
 
 ---
 
-### 🔭 I’m currently working on 
+### I’m currently working on 
 <p align="left">
  <a href="https://www.gccrc.unicamp.br/">
     <img src="https://github.com/crhisllane/crhisllane/blob/main/figure/icons/gccrc.png" alt="GCCRC"; margin:4px">
@@ -12,7 +12,7 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
 </p>
 
 ---
-### 🚧 I build with...
+### I build with...
 
 <p>
   <a href="https://www.perl.org/">
@@ -63,6 +63,9 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
 </p>
 
 ---
+
+### Status...
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crhisllane&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crhisllane&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
