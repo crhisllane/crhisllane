@@ -63,9 +63,7 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
 </p>
 
 ---
-<a href="https://github.com/crhisllane/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crhisllane&repo=github-readme-stats&theme=material-palenight" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crhisllane)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **crhisllane/crhisllane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
