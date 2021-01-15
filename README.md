@@ -66,7 +66,7 @@ I am a Bioinformatic scientist with a Master's and PhD in Genetics/emphasis in b
 
 ### Status...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crhisllane&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crhisllane&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crhisllane&count_private=true&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
